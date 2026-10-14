@@ -596,10 +596,10 @@ main {
     visibility: visible;
     -webkit-animation:
       fadeIn 0.5s,
-      fadeOut 0.5s 2.5s;
+      fadeOut 0.5s 9.5s;
     animation:
       fadeIn 0.5s,
-      fadeOut 0.5s 2.5s;
+      fadeOut 0.5s 9.5s;
   }
 }
 
